@@ -1,0 +1,15 @@
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\bin\Debug\net6.0\Zadacha000.exe
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\bin\Debug\net6.0\Zadacha000.deps.json
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\bin\Debug\net6.0\Zadacha000.runtimeconfig.json
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\bin\Debug\net6.0\Zadacha000.dll
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\bin\Debug\net6.0\Zadacha000.pdb
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\Zadacha000.csproj.AssemblyReference.cache
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\Zadacha000.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\Zadacha000.AssemblyInfoInputs.cache
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\Zadacha000.AssemblyInfo.cs
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\Zadacha000.csproj.CoreCompileInputs.cache
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\Zadacha000.dll
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\refint\Zadacha000.dll
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\Zadacha000.pdb
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\Zadacha000.genruntimeconfig.cache
+D:\GeekBrains\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C# (C Sharp)\Сименары\1\Seminar 1\Zadacha000\obj\Debug\net6.0\ref\Zadacha000.dll
